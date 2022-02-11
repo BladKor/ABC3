@@ -1,0 +1,5 @@
+airplane 75 96 18 97
+airplane 50 22 15 43
+airplane 90 32 24 30
+airplane 68 93 20 57
+airplane 78 68 26 98

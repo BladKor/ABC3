@@ -1,0 +1,6 @@
+Container:
+1: Train distance = 74, speed = 3, carriage counter = 56, optimal time = 24.66666666666666667
+2: Train distance = 89, speed = 5, carriage counter = 13, optimal time = 17.8
+3: Train distance = 39, speed = 6, carriage counter = 23, optimal time = 6.5
+4: Train distance = 49, speed = 2, carriage counter = 14, optimal time = 24.5
+5: Train distance = 59, speed = 12, carriage counter = 87, optimal time = 4.91666666666666667

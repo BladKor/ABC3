@@ -1,0 +1,17 @@
+Sorted container:
+1: Train distance = 40, speed = 1, carriage counter = 5, optimal time = 40.0
+2: Ship tug distance = 28, speed = 1, displacement = 37, optimal time = 28.0
+3: Train distance = 50, speed = 3, carriage counter = 78, optimal time = 16.66666666666666667
+4: Train distance = 65, speed = 4, carriage counter = 47, optimal time = 16.25
+5: Train distance = 80, speed = 6, carriage counter = 4, optimal time = 13.33333333333333333
+6: Ship tanker distance = 49, speed = 6, displacement = 5, optimal time = 8.16666666666666667
+7: Ship tug distance = 9, speed = 2, displacement = 18, optimal time = 4.5
+8: Train distance = 30, speed = 7, carriage counter = 4, optimal time = 4.28571428571428571
+9: Ship liner distance = 17, speed = 4, displacement = 73, optimal time = 4.25
+10: Ship tanker distance = 49, speed = 16, displacement = 61, optimal time = 3.0625
+11: Airplane distance = 20, speed = 2, fly distance = 5, load capacity = 13, optimal time = 2.5
+12: Airplane distance = 70, speed = 2, fly distance = 4, load capacity = 10, optimal time = 2.0
+13: Ship liner distance = 3, speed = 2, displacement = 23, optimal time = 1.5
+14: Airplane distance = 38, speed = 63, fly distance = 10, load capacity = 27, optimal time = 0.15873015873015873
+15: Airplane distance = 48, speed = 38, fly distance = 6, load capacity = 68, optimal time = 0.15789473684210571
+16: Airplane distance = 45, speed = 66, fly distance = 8, load capacity = 77, optimal time = 0.12121212121212121

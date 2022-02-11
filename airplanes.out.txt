@@ -1,0 +1,6 @@
+Container:
+1: Airplane distance = 75, speed = 96, fly distance = 18, load capacity = 97 optimal time = 0.18750000000000000
+2: Airplane distance = 50, speed = 22, fly distance = 15, load capacity = 43 optimal time = 0.68181818181818182
+3: Airplane distance = 90, speed = 32, fly distance = 24, load capacity = 30 optimal time = 0.75000000000000000
+4: Airplane distance = 68, speed = 93, fly distance = 20, load capacity = 57 optimal time = 0.21505376344086132
+5: Airplane distance = 78, speed = 68, fly distance = 26, load capacity = 98 optimal time = 0.38235294117647112

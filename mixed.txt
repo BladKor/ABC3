@@ -1,0 +1,16 @@
+airplane 45 66 8 77
+airplane 20 2 5 13
+airplane 70 2 4 10
+airplane 38 63 10 27
+airplane 48 38 6 68
+train 65 4 47
+train 80 6 4
+train 30 7 4
+train 40 1 5
+train 50 3 78
+ship 3 2 23 liner
+ship 17 4 73 liner 
+ship 9 2 18 tug 
+ship 28 1 37 tug 
+ship 49 6 5 tanker 
+ship 49 16 61 tanker
